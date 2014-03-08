@@ -147,3 +147,5 @@ public class AddFriend extends Activity implements OnClickListener {
         }
     }
 }
+
+//just a comment for git checking
